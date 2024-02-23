@@ -1,3 +1,3 @@
 https://pkrverma.github.io/expenseTracker/
-# ExpensTracker
+# Expense Tracker
 ## Internship Project
